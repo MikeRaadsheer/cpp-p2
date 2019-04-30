@@ -1,0 +1,5 @@
+﻿  Application.cpp
+c:\users\mike\desktop\ma\bewijzenmap\jaar2\periode2.3\r&d\c++\03 person\personapplication\personapplication\application.cpp(103): warning C4101: '_gender': unreferenced local variable
+c:\users\mike\desktop\ma\bewijzenmap\jaar2\periode2.3\r&d\c++\03 person\personapplication\personapplication\application.cpp(312): warning C4018: '<=': signed/unsigned mismatch
+c:\users\mike\desktop\ma\bewijzenmap\jaar2\periode2.3\r&d\c++\03 person\personapplication\personapplication\application.cpp(321): warning C4101: 'input': unreferenced local variable
+  PersonApplication.vcxproj -> C:\Users\Mike\Desktop\ma\bewijzenmap\jaar2\periode2.3\R&D\C++\03 Person\PersonApplication\Debug\PersonApplication.exe

@@ -1,0 +1,111 @@
+person add
+Mike
+Raadsheer
+18
+m
+person add
+a
+a
+1
+m
+person add
+b
+b
+2
+f
+person add
+c
+c
+3
+m
+person add
+d
+d
+4
+f
+person add
+e
+e
+5
+m
+person add
+f
+f
+6
+f
+person add
+g
+g
+7
+m
+person add
+h
+h
+8
+f
+person add
+i
+i
+9
+m
+list people
+person add
+Mike
+Raadsheer
+18
+m
+person add
+a
+a
+1
+m
+person add
+b
+b
+2
+f
+person add
+c
+c
+3
+m
+person add
+d
+d
+4
+f
+person add
+e
+e
+5
+m
+person add
+f
+f
+6
+f
+person add
+g
+g
+7
+m
+person add
+h
+h
+8
+f
+person add
+i
+i
+9
+m
+list people
+person 1 stats
+person 1 says
+Yeetus Deletus that's 10 fakka's
+person 1 degree add
+Gamedev
+1-1-2050
+person 1 stats
+person 1 degree remove
+Gamedev
